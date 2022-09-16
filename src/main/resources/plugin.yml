@@ -2,6 +2,6 @@ name: BlueMap-Essentials
 version: ${version}
 main: org.popcraft.bluemapessentials.BlueMapEssentials
 api-version: 1.16
-depend: [BlueMap, Essentials]
+depend: [Essentials]
 authors: [pop4959]
 description: BlueMap integration for Essentials.
